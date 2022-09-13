@@ -73,7 +73,7 @@ Check out the [🌩 **Nimbus Documentation Hub**](https://experimenter.info) or 
 
 	```
 	...
-	SECRETKEY=mynewsecretkey
+	SECRET_KEY=mynewsecretkey
 	...
 	```
 
